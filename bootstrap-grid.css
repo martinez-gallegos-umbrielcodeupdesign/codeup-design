@@ -1,0 +1,17 @@
+.logo {
+    height: 105px;
+    width: 105px;
+}
+
+body {
+    background: #F0F0F0;
+}
+
+.navbar {
+    background-color: #F0F0F0;
+}
+.test {
+    width: 210px;
+    height: 210px;
+    background-color: #E6563B;
+}
