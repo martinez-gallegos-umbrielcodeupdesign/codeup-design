@@ -1,6 +1,6 @@
 .logo {
-    height: 105px;
-    width: 105px;
+    height: 80px;
+    width: 80px;
 }
 
 body {
@@ -11,7 +11,26 @@ body {
     background-color: #F0F0F0;
 }
 .test {
-    width: 210px;
-    height: 210px;
-    background-color: #E6563B;
+    width: 125px;
+    height: 125px;
+    border: solid;
+    border-width: 10px;
+    border-color: white;
+    margin: 20px;
+
+}
+.redcircle {
+    background-color:#E6563B;
+}
+.orangecircle {
+    background-color:#EB9D3A
+}
+.greencircle {
+    background-color: #7cb06c;
+}
+.bluecircle {
+    background-color: #00ABA9
+}
+.try {
+    vertical-align: middle;
 }
