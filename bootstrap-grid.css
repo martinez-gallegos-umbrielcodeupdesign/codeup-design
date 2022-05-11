@@ -1,74 +1,97 @@
-.logo {
-    height: 80px;
-    width: 80px;
-}
 
-body {
-    background: #F0F0F0;
-}
+* {box-sizing: border-box;}
 
-.navbar {
-    background-color: #F0F0F0;
-}
-.test {
-    width: 125px;
-    height: 125px;
-    border: solid;
-    border-width: 10px;
-    border-color: white;
-    margin: 20px;
+@media screen and (max-width:500px) {
 
 }
 
-.small-circle {
-    width: 35px;
-    height: 35px;
-    margin: 5px;
-}
-.red-circle {
-    background-color:#E6563B;
-}
-.orange-circle {
-    background-color:#EB9D3A
-}
-.green-circle {
-    background-color: #7cb06c;
-}
-.blue-circle {
-    background-color: #00ABA9
-}
 
-.circle-text{
-    padding-top: 40px;
-}
+    .logo {
+        height: 80px;
+        width: 80px;
+    }
 
-.small-circle-text{
-    padding-left:0px;
-    margin-top: 5px;
-}
-.card {
-    background-color: #F0F0F0;
-}
-.card-title {
-    margin-top: -25px;
-}
-.card img {
-    border: solid;
-    border-width: 10px;
-    border-color: #E6E6E6;
-}
+    body {
+        background: #F0F0F0;
+    }
 
-.circle-line {
-    margin-top:-25px
-}
+    .navbar {
+        background-color: #F0F0F0;
+    }
 
-@media (min-width: 768px){
-    .query
-}
-.max-card-title {
-    margin-top: 20px;
-}
-.img-fluid {
-    max-width:50%;
-    height: 50%;
-}
+    .test {
+        width: 125px;
+        height: 125px;
+        border: solid;
+        border-width: 10px;
+        border-color: white;
+        margin: 20px;
+
+    }
+
+    .small-circle {
+        width: 35px;
+        height: 35px;
+        margin: 5px;
+    }
+
+    .red-circle {
+        background-color: #E6563B;
+    }
+
+    .orange-circle {
+        background-color: #EB9D3A
+    }
+
+    .green-circle {
+        background-color: #7cb06c;
+    }
+
+    .blue-circle {
+        background-color: #00ABA9
+    }
+
+    .circle-text {
+        padding-top: 40px;
+    }
+
+    .small-circle-text {
+        padding-left: 0px;
+        margin-top: 5px;
+    }
+
+    .card {
+        background-color: #F0F0F0;
+        /*flex-wrap: wrap;*/
+
+    }
+
+    .card-title {
+        margin-top: -25px;
+    }
+
+    .card img {
+        border: solid;
+        border-width: 10px;
+        border-color: #E6E6E6;
+    }
+
+    .circle-line {
+        margin-top: -25px
+    }
+
+    @media (min-width: 768px) {
+        .query
+    }
+    .max-card-title {
+        margin-top: 20px;
+    }
+
+    .img-fluid {
+        max-width: 50%;
+        height: 50%;
+    }
+
+
+
+
