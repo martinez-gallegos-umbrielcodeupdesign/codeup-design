@@ -1,10 +1,24 @@
 
 * {box-sizing: border-box;}
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:992px){
+    hr {
+    display: none;
+    }
+    .container-super {
+        padding: 49px;
+        padding-top: 0px;
+        margin: 0px;
+        display: none;
 
+    }
 }
 
+@media screen and (min-width:992px){
+    .text-head {
+        padding-bottom: 75px;
+    }
+}
 
     .logo {
         height: 80px;
@@ -29,6 +43,10 @@
 
     }
 
+.abc {
+        margin: 0;
+        width: auto;
+    }
     .small-circle {
         width: 35px;
         height: 35px;
@@ -80,13 +98,25 @@
         margin-top: -25px
     }
 
-    @media (min-width: 768px) {
-        .query
-    }
+
+
+
     .max-card-title {
+        margin-top: -20px;
+        padding-top: 0px;
+    }
+
+    .card-tweet {
         margin-top: 0px;
         padding-top: 0px;
     }
+
+    /*.container-super {*/
+    /*    padding: 49px;*/
+    /*    padding-top: 0px;*/
+    /*    margin: 0px;*/
+    /*}*/
+
 
     /*.img-fluid {*/
     /*    width: 50%;*/
