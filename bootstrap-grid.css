@@ -61,3 +61,13 @@ body {
 .circle-line {
     margin-top:-25px
 }
+
+@media (min-width: 768px){
+    .query
+}
+.mini-card {
+flex-direction: row;
+}
+.mini-card img {
+    width: 40%;
+}
