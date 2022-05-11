@@ -68,3 +68,7 @@ body {
 .max-card-title {
     margin-top: 20px;
 }
+.img-fluid {
+    max-width:50%;
+    height: 50%;
+}
