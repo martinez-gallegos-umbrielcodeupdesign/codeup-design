@@ -45,8 +45,8 @@
 
 
     .small-circle {
-        width: 35px;
-        height: 35px;
+        width: 18px;
+        height: 18px;
         margin: 5px;
     }
 
@@ -71,11 +71,6 @@
         padding-top: 40px;
     }
 
-    .small-circle-text {
-        padding-left: 0px;
-        margin-top: 5px;
-    }
-
     .card {
         background-color: #F0F0F0;
         /*flex-wrap: wrap;*/
@@ -83,7 +78,7 @@
     }
 
     .card-title {
-        margin-top: -25px;
+        margin-top: -20px;
     }
 
     .card img {
