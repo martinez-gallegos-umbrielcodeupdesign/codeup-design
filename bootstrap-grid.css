@@ -43,15 +43,13 @@
 
     }
 
-.abc {
-        margin: 0;
-        width: auto;
-    }
+
     .small-circle {
         width: 35px;
         height: 35px;
         margin: 5px;
     }
+
 
     .red-circle {
         background-color: #E6563B;
