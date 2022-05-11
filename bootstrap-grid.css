@@ -65,9 +65,6 @@ body {
 @media (min-width: 768px){
     .query
 }
-.mini-card {
-flex-direction: row;
-}
-.mini-card img {
-    width: 40%;
+.max-card-title {
+    margin-top: 20px;
 }
