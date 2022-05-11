@@ -19,15 +19,45 @@ body {
     margin: 20px;
 
 }
-.redcircle {
+
+.small-circle {
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+}
+.red-circle {
     background-color:#E6563B;
 }
-.orangecircle {
+.orange-circle {
     background-color:#EB9D3A
 }
-.greencircle {
+.green-circle {
     background-color: #7cb06c;
 }
-.bluecircle {
+.blue-circle {
     background-color: #00ABA9
+}
+
+.circle-text{
+    padding-top: 40px;
+}
+
+.small-circle-text{
+    padding-left:0px;
+    margin-top: 5px;
+}
+.card {
+    background-color: #F0F0F0;
+}
+.card-title {
+    margin-top: -25px;
+}
+.card img {
+    border: solid;
+    border-width: 10px;
+    border-color: #E6E6E6;
+}
+
+.circle-line {
+    margin-top:-25px
 }
